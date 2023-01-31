@@ -127,6 +127,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
 - [Session](https://getsession.org/) - Open-source, public-key-based secure messaging application which uses a set of decentralised storage servers and an onion routing protocol to send end-to-end encrypted messages with minimal exposure of user metadata.
+- [Signal](https://github.com/signalapp/Signal-Android) - Privacy-based messaging app created by the co-founder of WhatsApp.
 - [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Snikket](https://snikket.org/) - Easy-to-use federated messaging+calls app based on open standards (XMPP) and open-source self-hostable server. No phone number required.
 - [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
